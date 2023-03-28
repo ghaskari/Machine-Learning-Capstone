@@ -7,6 +7,6 @@ The IBM Machine Learning Capstone course utilizes several Python-based machine l
 By the end of this course, students will gain hands-on experience in developing machine learning systems and practical knowledge that they can apply in various fields.
 
 
-[Coursera Certificate.pdf](https://github.com/ghaskari/Machine-Learning-Capstone/files/11085578/Coursera.LC7Y8UKGD6UY.pdf)
+[Coursera Certificate](https://coursera.org/share/6635820104d59b93e3f9141117e5878e)
 
 ![Certificate](https://user-images.githubusercontent.com/103450551/228135469-925fd910-ea67-4e41-a312-0bb0e211072a.png)
